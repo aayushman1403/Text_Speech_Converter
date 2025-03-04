@@ -1,4 +1,3 @@
-﻿# Text_Speech_Converter
 # 🗣️ Text Speech Converter
 
 The **Text Speech Converter** is a browser extension that converts text into speech, allowing users to listen to webpage content effortlessly. It supports multiple languages and provides a user-friendly interface for enhanced accessibility and convenience.
